@@ -1,7 +1,8 @@
-# Obsidian Template Theme
+<h1> Sweetdracula-monokai Theme for Obsidian </h1>
 
-Press `Use this template` to use this template for your Obsidian theme!
-
+ <p> Dracula theme for Obsidian but sligtly altered to become more readable,  thanks editor being monokay themed, where UI should stay almost the same as in the Original dracula theme as we`re all used to.</p>
+<p>Heavily inspired by Sweetdracula-monokai for VSCode
+ </p>
 ## Get started
 - [Guides for Obsidian Theme Designers](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Theme+Designers)
 - [Theme Design Utilities Plugin](https://github.com/chrisgrieser/obsidian-theme-design-utilities)
